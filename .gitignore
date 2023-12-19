@@ -1,0 +1,6 @@
+/node_modules/
+/.idea/
+/pacts/
+*.iml
+pnpm-lock.yaml
+package-lock.json
